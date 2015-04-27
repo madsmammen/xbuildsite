@@ -1,0 +1,13 @@
+DESCRIPTION:
+xBuildSite is a GUI frontend to 'xataface' used to greate frontend's to mysql
+and mssql databases.
+
+INSTALLATION:
+Unpack the .zip file to te 'htdocs' directory of your httpd server.
+'xbSettings.php' may need some editing since this file is used to indicate the
+placement of xataface.
+
+DEVELOPMENT AND TESTING PLATFORM:
+I am using a win7 machine with 'xampp' (installed in 'c:/xampp') and xataface
+placed in 'c:/xampp/htdocs/xataface'. xBuiltsite is placed in
+'c:/xampp/htdocs/xBuildSite'.
