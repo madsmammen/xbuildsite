@@ -1,0 +1,5 @@
+xBuildSite-1.11.0:
+  This is the first public release of xBuildsite.
+  For now it is recomended to use xBuildSite as single user (only one user at
+  a time). However the genarated site's are fully multi-user.
+
